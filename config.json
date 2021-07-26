@@ -1,0 +1,8 @@
+{
+    "token": "TOKEN",
+    "prefix": "!",
+    "color": "HEX_COLOR",
+    "emoji":"EMOJI_U_WANT_TO_USE",
+    "author-nuke": "YOUR_DISCORD_USER",
+    "image": "YOUR_IMAGE_LINK.gif"
+}
